@@ -19,7 +19,7 @@
 
 ## My Work
 
-- [Phone Book](https://github.com/Dissiyt/IPA_Telefonbuch) - A thone book that uses php nad LDAP requests to search for people in Active Directory and privides a way to quickly contact them.
+- [Phone Book](https://github.com/Dissiyt/IPA_Telefonbuch) - A phone book that uses php nad LDAP requests to search for people in Active Directory and privides a way to quickly contact them.
 - [Repository 2](link-to-repo-2) - Short description of repository 2
 - [Repository 3](link-to-repo-3) - Short description of repository 3
 
