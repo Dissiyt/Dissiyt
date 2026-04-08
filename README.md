@@ -23,11 +23,11 @@
 - [Repository 2](link-to-repo-2) - Short description of repository 2
 - [Repository 3](link-to-repo-3) - Short description of repository 3
 
-## GitHub Stats
+<!-- ## GitHub Stats
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Dissiyt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dissiyt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dissiyt)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **Dissiyt/Dissiyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
